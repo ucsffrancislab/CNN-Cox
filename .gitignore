@@ -1,3 +1,7 @@
 /save model/100/my1DCNNCox/
 /save model/100/my2DCNNCox/
 /save model/100/myCNNCox/
+/data/our/
+/model/cnn
+/model/dcnn
+/save model/our/
